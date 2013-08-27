@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- filename: Lekhanee.xml -->
+
+<component>
+    <name>org.freedesktop.IBus.Lekhanee</name>
+    <description>Lekhanee Component</description>
+    <exec>/usr/libexec/ibus-engine-Lekhanee --ibus</exec>
+    <version>0.0.1</version>
+    <author>Prasanna Suman: &lt;prasanna.tux@gmail.com&gt;</author>
+    <license>GPL</license>
+    <homepage>https://github.com/tux4/ibus-Lekhanee</homepage>
+    <textdomain>ibus-Lekhanee</textdomain>
+
+    <engines>
+        <engine>
+            <name>Lekhanee</name>
+            <language>np</language>
+            <license>GPL</license>
+            <author>Prasanna Suman: &lt;prasanna.tux@gmail.com&gt;</author>
+            <icon>ibus-Lekhanee.svg</icon>
+            <layout>us</layout>
+            <longname>Lekhanee</longname>
+            <description>Lekhanee input method</description>
+            <rank>0</rank>
+        </engine>
+    </engines>
+</component>
