@@ -9,7 +9,7 @@
 # GNU GPL 3.0
 #
 ###########################################
-from ...libLekhanee import transliterator
+from ...core import transliterator
 from ...keymaps.ne_NP import base_keymap
 
 
