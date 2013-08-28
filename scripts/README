@@ -1,0 +1,4 @@
+#Collection of utility scripts useful for libLekhanee.
+
+Generator
+- generator.py: Generate a full keymap file based on base keymap file with vowels and consonants
