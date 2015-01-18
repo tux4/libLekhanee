@@ -1,5 +1,9 @@
 #libLekhanee
 ===========
+
+> This library is deprecated and present only for a record. 
+> Some day, if I feel its necessary I will rewrite it. 
+
 Python library to transliterate text written in Latin (English) to equivalent indic script.
 
 Copyright 2013 Prasanna Suman <prasanna.tux@gmail.com>
